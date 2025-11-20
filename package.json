@@ -1,0 +1,28 @@
+{
+  "name": "sorteio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "npx tsx ./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lui5085/sorteio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/lui5085/sorteio/issues"
+  },
+  "homepage": "https://github.com/lui5085/sorteio#readme",
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "@types/terminal-kit": "^2.5.7"
+  },
+  "dependencies": {
+    "terminal-kit": "^3.1.2"
+  }
+}
